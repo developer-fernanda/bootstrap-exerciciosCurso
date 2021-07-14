@@ -1,0 +1,109 @@
+/*Imagem de perfil - background*/
+/*Imagem de contato - background*/
+#img-perfil,
+#img-contato{
+ background-color: #eeeeee;
+ border-right: 1px solid #dbdbdb;
+ margin: 0;
+ height: 60px;
+}
+
+/*Imagem de perfil - Tamanho*/
+/*Imagem de contato - Tamanho*/
+#img-perfil>img,
+#img-contato>img{
+    height: 40px;
+    border-radius: 20px;
+    margin: 10px;
+    background-color: #eeeeee;
+}
+
+/*Input pesquisa*/
+#pesquisa{
+    background-color: #f8f8f8;
+    border-right: 1px solid #dbdbdb !important;
+}
+
+
+#pesquisa>input{
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 30px;
+    border:none;
+    text-align: center;
+    font-size: 13px;
+    color: #9b9b9b;
+}
+
+/*Foto do contato*/
+#list>a>img{
+    height: 40px;
+    border-radius: 20px;
+}
+
+/*Texto contato*/
+.d-flex h6,
+.d-flex small{
+   margin-left: 8px;
+   margin-bottom: 0px;
+}
+
+/*Horário contato*/
+.timeago{
+   font-size: 12px;
+   color: #999999;
+   margin-bottom: 0px;
+}
+
+/*Mensagens não lidas*/
+.badge-success{
+    font-size: 12px;
+    height: 20px;
+    background-color: #09d261;
+}
+
+/*Nome do contato*/
+.nome{
+    color: #4d4d4d;
+}
+
+/*Mensagem do contato*/
+.msm{
+    color: #9b9b9b;
+}
+
+
+/*Background mensagens*/
+#col-right{
+    background-color: #e5ddd5;
+    height: 100vh;
+}
+
+/*Mensagens*/
+.msm-contact{
+    margin-top: 5px;
+    background-color: #ffffff;
+    margin-left: 80px;
+    font-size: 15px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/*Borda esquerda*/
+#col-left{
+    border-right: 1px solid #dbdbdb !important;
+}
+
+/*Borda List-group*/
+.list-group-item{
+    border-left: none;
+    border-right: none;
+    border-color: #f8f8f8;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
