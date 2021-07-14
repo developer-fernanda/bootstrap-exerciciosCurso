@@ -13,4 +13,4 @@
 <h4> Layout WhatsApp  </h4>
 <img src="Desafio2/Desafio2.png">
 
-Instrutor: @anthonyrafa
+Instrutor: <a href="https://github.com/anthonyrafa"> Anthony </a>
