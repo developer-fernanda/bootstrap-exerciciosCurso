@@ -8,7 +8,7 @@
 
 <h1> IMAGENS </h1>
 <h4> One Page Pizzaria </h4>
-<img src="Desafio1.png">
+<img src="Desafio1/Desafio1.png">
 <br>
 <h4> Layout WhatsApp  </h4>
-<img src="Desafio2.png">
+<img src="Desafio2/Desafio2.png">
