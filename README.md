@@ -1,4 +1,4 @@
-<h1> CURSO DE BOOTSTRAP 4 </h1>
+<h1> CURSO DE BOOTSTRAP 4 - Hcode  </h1>
 
 <h3> DESAFIOS DO CURSO</h3>
 <ul>
@@ -12,3 +12,5 @@
 <br>
 <h4> Layout WhatsApp  </h4>
 <img src="Desafio2/Desafio2.png">
+
+Instrutor: @anthonyrafa
